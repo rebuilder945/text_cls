@@ -12,8 +12,8 @@ pandas=2.1.1
 scikit-learn=1.3.0
 ```
 
-- trained model file: https://pan.baidu.com/s/19rekbLery9HKycrHvrvSkA?pwd=zq3v 
-- download the above model files, put them under the corresponding folders
+- checkpoints file: https://pan.baidu.com/s/19rekbLery9HKycrHvrvSkA?pwd=zq3v 
+- download the above files, put them under the corresponding folders
 
 ### Run
 
